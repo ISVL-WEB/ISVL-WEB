@@ -42,7 +42,7 @@ Sou um entusiasta da tecnologia com foco em construir experiências web robustas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-*Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub.*
+
 
 ---
 
