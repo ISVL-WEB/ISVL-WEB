@@ -1,8 +1,5 @@
-# <span style="color:#00FFFF;">CYBERNETIC FRONTIERS // CÓDIGO & SEGURANÇA</span>
+# <span style="color:#00FFFF;">IS VL DEV</span> 
 
-![Cyberpunk Profile](https://private-us-east-1.manuscdn.com/sessionFile/bvWzRwEowvZhyXTBng3uTg/sandbox/PSyktoFPCyZSrqBge3p2q8-images_1780707060695_na1fn_L2hvbWUvdWJ1bnR1L2N5YmVycHVua19wcm9maWxl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvYnZXelJ3RW93dlpoeVhUQm5nM3VUZy9zYW5kYm94L1BTeWt0b0ZQQ3laU3JxQmdlM3AycTgtaW1hZ2VzXzE3ODA3MDcwNjA2OTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyTjVZbVZ5Y0hWdWExOXdjbTltYVd4bC5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Six0l0g9~pubcdEw8gP6-~HobUEMzezPfxEVPDs0339KBLx3dx4g1DxJwPdxxVzY~Kg1d1~G3h9ciT8VDm2rFoYYnpHe8ucuVgBEJBMcYCsnC5Mh-P9VNxN7t8xjsu9e6rYNCrGKcnWPPoilH9q~QNSu4w-RszNTHqsbtEbTquNzz~LvMnKqCOikBxXuBe-x54LEtyL~ATZkIKOaIcGYmaKoJ~lXXCIilTRo7s4JVK8ChyPDgK5mbJtvapkPLXBzdkKSJmtkJsJeahe0Jkq8MJ-qRCDBiwqYmLTOUZHDZFP79PYE~05a1DVseXYu0TtCbALQBVlcKC0QDOx~2jt8qw__)
-
-![Cyberpunk Banner](https://raw.githubusercontent.com/Mishka-Mishka/Mishka-Mishka/main/assets/cyberpunk-banner.gif)
 
 > `Infiltrando o futuro, linha por linha. Desenvolvedor Full-Stack com paixão por Cibersegurança e inovação em Frontend.`
 
